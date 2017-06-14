@@ -37,3 +37,7 @@
     [hud hide:YES afterDelay:sec];
 }
 ```
+
+效果图
+![提示框.png](http://upload-images.jianshu.io/upload_images/3516691-19b7f56488f3d9d0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
